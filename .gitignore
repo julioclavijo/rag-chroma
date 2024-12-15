@@ -1,0 +1,4 @@
+.venv
+api
+chroma
+__pycache__
